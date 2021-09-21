@@ -15,5 +15,4 @@ Proveedor de conjuntos de datos: NASA LP DAAC en el USGS EROS Center
 
 Documento de base teórica de algoritmos (ATBD): https://lpdaac.usgs.gov/documents/93/MOD16_ATBD.pdf
 
-Composición y análisis:
-Alfonso rincón barrera
+Composición y análisis:Alfonso rincón barrera
